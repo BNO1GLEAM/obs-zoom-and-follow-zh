@@ -9,7 +9,8 @@ Have you ever needed to zoom in on your screen to show some fine detail work, or
 *Inspired by [caharkness](https://obsproject.com/forum/members/caharkness.153928/)'s [Magic Window](https://obsproject.com/forum/threads/magic-window.107614/)*
 
 *Last updated: 2023 April 16*
-##中文使用说明：
+
+## 中文使用说明：
 原作者链接：https://github.com/tryptech/obs-zoom-and-follow
 
 ### 准备工作
