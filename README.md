@@ -1,4 +1,5 @@
-中文使用说明：README-zh.md
+中文使用说明：[中文使用说明](https://github.com/BNO1GLEAM/obs-zoom-and-follow-zh/blob/master/README-zh.md)
+---------------
 Zoom and Follow
 ---------------
 Have you ever needed to zoom in on your screen to show some fine detail work, or to make your large 4k/ultrawide monitor appear less daunting on stream? **Zoom and Follow** for OBS Studio does exactly that, zooms in on your mouse and follows it around. Configurable and low-impact, you can now do old school Camtasia zoom ***live***!
