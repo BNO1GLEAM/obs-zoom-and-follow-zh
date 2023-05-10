@@ -13,7 +13,9 @@ Have you ever needed to zoom in on your screen to show some fine detail work, or
 原作者链接：https://github.com/tryptech/obs-zoom-and-follow
 
 ### 准备工作
+
 1.安装OBS，Python3
+
 2.在OBS——工具——脚本——Python设置中选择Python安装目录。
 
 OBS好像对Python的识别有问题，需要你的Python安装文件夹目录树为：/Python/Python310
@@ -48,15 +50,10 @@ pip install pywinctl
 
 对齐点选择居中，这时候你会发现OBS预览窗口里面的画面会出现显示不完全的情况，这时候自己把窗口进行拖动，覆盖整个预览窗口。
 
-边框对其选择等比例缩放到框内，边框内对齐方式选择居中
-
-点击关闭
+边框对其选择等比例缩放到框内，边框内对齐方式选择居中,点击关闭
 
 5.设置快捷键：
-
-OBS主窗口点击文件——设置——快捷键，搜索zoom
-
-将第一个热键设置成你习惯的热键
+OBS主窗口点击文件——设置——快捷键，搜索zoom,将第一个热键设置成你习惯的热键
 
 6.关闭设置窗口，按下你设置的热键，看预览窗口是否会进行缩放。
 
