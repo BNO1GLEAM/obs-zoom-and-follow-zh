@@ -1,3 +1,4 @@
+[中文使用说明](https://github.com/BNO1GLEAM/obs-zoom-and-follow-zh/wiki/%E4%B8%AD%E6%96%87%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 中文使用说明：[中文使用说明](https://github.com/BNO1GLEAM/obs-zoom-and-follow-zh/blob/master/README-zh.md)
 ---------------
 Zoom and Follow
